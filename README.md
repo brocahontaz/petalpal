@@ -1,2 +1,2 @@
-# petalpal
-App tracking plants
+# petalpal-web
+Web app for PetalPal
